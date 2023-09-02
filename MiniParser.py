@@ -1,6 +1,6 @@
 import logging
 import sly
-from absC import *
+from absC import * 
 
 from mclexer import MyLexer
 
